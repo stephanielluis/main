@@ -1,4 +1,4 @@
-![banff](https://user-images.githubusercontent.com/81248766/112178622-4b6fab00-8bd0-11eb-9eb9-39b58c1a852a.jpg)
+![Belle image](https://user-images.githubusercontent.com/81248766/112178622-4b6fab00-8bd0-11eb-9eb9-39b58c1a852a.jpg)
 
 
 ## Welcome to my webpage
