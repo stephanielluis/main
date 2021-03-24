@@ -7,8 +7,7 @@
 ### Merci Lars
 
 # Publications
-Stéphanie Lluis and Brian McCall, [kkk](github.com/stephanielluis/stephanielluis.ca/files/6191274/lluis_and_mccall_eilfs_jan2017_0.pdf)
-), Canadian Public Policy, 2019, vol 45(2):1-44
+Stéphanie Lluis and Brian McCall, [abdc](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), Canadian Public Policy, 2019, vol 45(2):1-44
 
 ## Header 2
 ### Header 3
