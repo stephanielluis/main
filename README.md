@@ -12,8 +12,19 @@ Waterloo, ON N2L 3G1<br />
 Or email me: slluisatuwaterloodotca
 
 # Education
+• Ph. D. (Economics) Université de Montréal, Canada, 2002<br />
+• M.A. (Economics), Université de Montréal, Canada, 1994<br />
+• M.A. (Mathematics and Social Sciences), Université Panthéon-Sorbonne, France, 1993<br />
+• BSc . (Mathematics and Social Sciences), Université Panthéon-Sorbonne, France, 1992<br />
 
 # Employment 
+• Associate Professor , University of Waterloo, 2012-present<br />
+• Visiting Professor, McMaster University, Fall 2018<br />
+• Visiting Professor, University of Adelaide, Australia, Winter 2015<br />
+• Assistant Professor, University of Waterloo, 2007-2012<br />
+• Assistant Professor, University of Minnesota, 2002-2007<br />
+• Instructor, University of Minnesota, 2001-2002<br />
+• Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
 # Publications
 Stéphanie Lluis and Brian McCall, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), _Canadian Public Policy_, 2019, vol 45(2):1-44
