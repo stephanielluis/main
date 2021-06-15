@@ -5,7 +5,7 @@
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
 My main area of research is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics.
-You will find contact details in my [VITAE](CV2021_Lluis.pdf)
+Contact details are in my [VITAE].(CV2021_Lluis.pdf)
 
 # Research
 ## Peer-Reviewed Articles, Reports, Working Papers
