@@ -22,7 +22,7 @@ Or email me: slluisatuwaterloodotca
 • Visiting Professor, McMaster University, Fall 2018<br />
 • Visiting Professor, University of Adelaide, Australia, Winter 2015<br />
 • Assistant Professor, University of Waterloo, 2007-2012<br />
-• Assistant Professor, University of Minnesota, 2002-2007<br />
+• Assistant Professor, University of Minnesota, 2003-2006<br />
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
