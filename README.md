@@ -16,9 +16,10 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
-# Peer-Reviewed Publications, Reports, Working Papers
+# Research
+## Peer-Reviewed Articles, Reports, Working Papers
 
-## Worker Mobility and Workplace Organization
+### Worker Mobility and Workplace Organization
 
 Stéphanie Lluis, 2005, [Comparative Advantage and Learning in Wage Dynamics and Intrafirm Mobility: Evidence from Germany](https://www.journals.uchicago.edu/doi/pdf/10.1086/491607), _Journal of Labor Economics_, vol 23 (5), pp. 725-767.
 
@@ -32,7 +33,7 @@ Ben-Ner, Avner, Fanmin Kong, and Stéphanie Lluis, 2012, [Uncertainty, Task Envi
 
 Stéphanie Lluis and Jean Abraham, 2013, [Fringe Benefits Compensating Differentials and Worker Selection: Evidence from the Medical Expenditure Panel Survey 1997-2006](https://onlinelibrary.wiley.com/doi/full/10.1111/irel.12023?casa_token=pmApHYHaWoYAAAAA%3A7QLGX6j9Oo9PMR64TfnT7Y88Hxgrb-wRFwdIgfKNT3GTnHLnTlHxDzmNyhw2Rr0M6dxkhxgqCM0zOV8), _Industrial Relations_, vol 52(2), pp 541-581. 
 
-## Employment Insurance
+### Employment Insurance
 
 Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP%20Study%20Lluis%20and%20McCAll%20no85%20FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
 
@@ -44,9 +45,10 @@ Stéphanie Lluis, 2020,[Consequences of the High EI Benefits Floor, Parts I & II
 
 Stéphanie Lluis and Brian McCall, 2019, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2018-031), _Canadian Public Policy_, vol 45(2):1-44
 
-## Female Labour Supply
+### Female Labour Supply
 
 Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labour Supply](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2019-043), _Canadian Public Policy_, vol 46(3): 340-368
 
 Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), Updated version coming soon.
 
+## Work in Progress
