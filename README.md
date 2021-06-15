@@ -27,6 +27,4 @@ Stéphanie Lluis and Brian McCall, [Employment and Job Search Implications of th
 
 
 
-[Link](url) and ![Image](src)
-```
 
