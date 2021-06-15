@@ -25,16 +25,7 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 # Most Recent Publications
 Stéphanie Lluis and Brian McCall, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), _Canadian Public Policy_, 2019, vol 45(2):1-44
 
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
