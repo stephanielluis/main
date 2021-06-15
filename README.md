@@ -37,7 +37,7 @@ Langinier, Corinne and Stéphanie Lluis, 2021, [Departure and Promotion of U.S. 
 
 ### Employment Insurance
 
-Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP%20Study%20Lluis%20and%20McCAll%20no85%20FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
+Stéphanie Lluis and Brian McCall, 2019, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2018-031), _Canadian Public Policy_, vol 45(2):1-44
 
 Stéphanie Lluis, 2020, [Lessons from Employment Insurance for the CERB](https://www.cdhowe.org/intelligence-memos/st%C3%A9phanie-lluis-%E2%80%93-lessons-employment-insurance-cerb), in special volume [Climbing Out of COVID](https://www.cdhowe.org/public-policy-research/climbing-out-covid), edited by Grant Bishop, Benjamin Dachis, Jeremy Kronick, Parisa Mahboubi, and Rosalie Wyonch, Policy Study 48, C.D. Howe Institute.
 
@@ -45,7 +45,7 @@ Stéphanie Lluis, 2020, [Regional Differences in Job Growth Shows Ottawa Must Th
 
 Stéphanie Lluis, 2020,[Consequences of the High EI Benefits Floor, Parts I & II](https://www.cdhowe.org/intelligence-memos/st%C3%A9phanie-lluis-%E2%80%93-consequences-high-ei-benefits-floor-ii) in special volume [Climbing Out of COVID](https://www.cdhowe.org/public-policy-research/climbing-out-covid), edited by Grant Bishop, Benjamin Dachis, Jeremy Kronick, Parisa Mahboubi, and Rosalie Wyonch, Policy Study 48, C.D. Howe Institute.
 
-Stéphanie Lluis and Brian McCall, 2019, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2018-031), _Canadian Public Policy_, vol 45(2):1-44
+Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP%20Study%20Lluis%20and%20McCAll%20no85%20FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
 
 ### Female Labour Supply
 
