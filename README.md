@@ -23,6 +23,20 @@ Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labo
 
 Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), Updated version coming soon.
 
+## Worker Mobility and Workplace Organization
+
+Stéphanie Lluis, 2005, [Comparative Advantage and Learning in Wage Dynamics and Intrafirm Mobility: Evidence from Germany](https://www.journals.uchicago.edu/doi/pdf/10.1086/491607), _Journal of Labor Economics_, vol 23 (5), pp. 725-767.
+
+Ana Ferrer and Stéphanie Lluis, 2008, [Should Workers Care about Firm Size?, Industrial and Labor Relations Review](https://journals.sagepub.com/doi/abs/10.1177/001979390806200106?casa_token=Iyvo33FfzoIAAAAA:igOYJwua7XZYnumoh4h8YR9e5WLgvID9z9xYHEtrDMq914Kkr5arSX8fSwTW8Xf7kmEA6wRtXDWFcg), vol 62, no 1, pp. 104-125.
+
+Stéphanie Lluis, 2009, [Wage Structure by Firm Size: Evidence from Canada and the US](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9914.2009.00450.x?casa_token=BkSIkeR_6IMAAAAA%3AkuKPlO3FE_PQuy--CK4jMI5R-ymMs7acMbsA4F_v7zHaRLiEJ75h3SkT6HEOMbWFe7KHpgtnnTqjIQU), _LABOUR: Review of Labour Economics and Industrial Relations_, vol 23(2), pp. 283-317.
+
+Ben-Ner, Avner and Stéphanie Lluis, 2011, [Learning: What and How? An Empirical Study of Adjustments in Organizational Structure](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-232X.2010.00626.x?casa_token=RRcboO6aIoQAAAAA%3ADPtH-65EZ2-L-qfkafpx3FH2OX73x9ndq3PWlSkEFdEklFpnTULg9g_pfL5U1KytcglEok036LjCvqo), _Industrial Relations_, vol 50(1), pp 76-108.
+
+Ben-Ner, Avner, Fanmin Kong, and Stéphanie Lluis, 2012, [Uncertainty, Task Environment, and Organization Design: An Empirical Investigation](https://www.sciencedirect.com/science/article/pii/S0167268112000315?casa_token=nbUnN0EjVcEAAAAA:YoplVQKJPifByy9KC3o1UpQ3z7E5KUCXh9hFVa6f4v80EbcGJstkLA-vYCAD2eTaqeGKMXKD_z8), Journal of Economic Behavior and Organization, 2012, vol 82(1), pp. 281-313.
+
+Stéphanie Lluis and Jean Abraham, “Fringe Benefits Compensating Differentials and Worker Selection: Evidence from the Medical Expenditure Panel Survey 1997-2006”, Industrial Relations, 2013, vol 52(2), pp 541-581. 
+
 ## Employment Insurance
 
 Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP%20Study%20Lluis%20and%20McCAll%20no85%20FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
