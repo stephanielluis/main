@@ -25,7 +25,7 @@ Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](htt
 
 ## Employment Insurance
 
-Colin Busby, Stéphanie Lluis and Brian McCall, 2021, [Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP Study Lluis and McCAll no85 FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
+Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP Study Lluis and McCAll no85 FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
 
 Stéphanie Lluis and Brian McCall, 2019, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2018-031), _Canadian Public Policy_, vol 45(2):1-44
 
