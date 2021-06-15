@@ -33,6 +33,8 @@ Ben-Ner, Avner, Fanmin Kong, and Stéphanie Lluis, 2012, [Uncertainty, Task Envi
 
 Stéphanie Lluis and Jean Abraham, 2013, [Fringe Benefits Compensating Differentials and Worker Selection: Evidence from the Medical Expenditure Panel Survey 1997-2006](https://onlinelibrary.wiley.com/doi/full/10.1111/irel.12023?casa_token=pmApHYHaWoYAAAAA%3A7QLGX6j9Oo9PMR64TfnT7Y88Hxgrb-wRFwdIgfKNT3GTnHLnTlHxDzmNyhw2Rr0M6dxkhxgqCM0zOV8), _Industrial Relations_, vol 52(2), pp 541-581. 
 
+Langinier, Corinne and Stéphanie Lluis, 2021, [Departure and Promotion of U.S. Patent Examiners: Do Patent Characteristics Matter?](https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12497), _Contemporary Economic Policy_, Vol. 39, No. 2, 416–434.
+
 ### Employment Insurance
 
 Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work: How to Improve EI WorkingWhile-on-Claim Provisions](IRPP%20Study%20Lluis%20and%20McCAll%20no85%20FINAL.pdf), IRPP Study 85. Montreal: Institute for Research on Public Policy.
@@ -52,3 +54,10 @@ Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labo
 Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), Updated version coming soon.
 
 ## Work in Progress
+
+“Employment Insurance Changes and Job Quality”, with Brian McCall and Yu Chen.
+“Family-Friendly Policies and Absenteeism”, with Catherine Haeck 
+"
+“Employment Insurance and Firm Employment Decisions”, with Brian McCall and Benoit Dostie
+"Ontario School Closures and Parental Labour Supply", with Mikal Skuterud
+
