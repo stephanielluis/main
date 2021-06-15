@@ -16,12 +16,13 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
-# Publications
+# Research
 ## Female Labour Supply
+
 Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labour Supply](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2019-043), _Canadian Public Policy_, vol 46(3): 340-368
 
 Stéphanie Lluis and Brian McCall, 2019, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), _Canadian Public Policy_, vol 45(2):1-44
 
-
+Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), Updated version coming soon.
 
 
