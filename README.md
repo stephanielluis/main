@@ -1,14 +1,13 @@
 
 
-"Dans la vie, y'a pas de grands, y'a pas de petits. 
-La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Coluche.
+"Dans la vie, y'a pas de grands, y'a pas de petits.<br />	La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Coluche.
 
-I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/) and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
+I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
-You can mail anything to my office at
-Hagey Hall office, HH 239,
-200 University Av W,
-Waterloo, ON N2L 3G1
+You can mail anything to my office at	<br />
+Hagey Hall, office HH 239,<br />
+200 University Av W,<br />
+Waterloo, ON N2L 3G1<br />
 
 Or email me: slluisatuwaterloodotca
 
