@@ -55,9 +55,9 @@ Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](htt
 
 ## Work in Progress
 
-“Employment Insurance Changes and Job Quality”, with Brian McCall and Yu Chen.
-“Family-Friendly Policies and Absenteeism”, with Catherine Haeck 
-"
-“Employment Insurance and Firm Employment Decisions”, with Brian McCall and Benoit Dostie
-"Ontario School Closures and Parental Labour Supply", with Mikal Skuterud
+“Employment Insurance Changes and Job Quality", with Brian McCall and Yu Chen<br />
+“Family-Friendly Policies and Absenteeism”, with Catherine Haeck<br /> 
+"Measuring the Value and Quality of Jobs", with Matt Doyle<br />
+“Employment Insurance and Firm Employment Decisions”, with Brian McCall and Benoit Dostie<br />
+"Ontario School Closures and Parental Labour Supply", with Mikal Skuterud<br />
 
