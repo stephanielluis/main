@@ -5,16 +5,7 @@
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
 My main area of research expertise is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics.
-[VITAE - updated 2021](CV2021_Lluis.pdf)
-
-# Employment 
-• Associate Professor , University of Waterloo, 2012-present<br />
-• Visiting Professor, McMaster University, Winter 2017<br />
-• Visiting Professor, University of Adelaide, Australia, Winter 2015<br />
-• Assistant Professor, University of Waterloo, 2007-2012<br />
-• Assistant Professor, University of Minnesota, 2003-2006<br />
-• Instructor, University of Minnesota, 2001-2002<br />
-• Research Analyst, CIRANO, Montreal, 1995-1996<br />
+[VITAE](CV2021_Lluis.pdf)
 
 # Research
 ## Peer-Reviewed Articles, Reports, Working Papers
