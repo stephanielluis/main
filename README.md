@@ -5,7 +5,7 @@
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
 My main area of research expertise is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics.
-[VITA]()
+[VITAE]()
 
 # Education
 • Ph. D. (Economics) Université de Montréal, Canada, 2002<br />
