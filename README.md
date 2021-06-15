@@ -7,12 +7,6 @@ I am an Associate Professor in the [Department of Economics](https://uwaterloo.c
 My main area of research expertise is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics.
 [VITAE]("main/CV2021_Lluis.pdf")
 
-# Education
-• Ph. D. (Economics) Université de Montréal, Canada, 2002<br />
-• M.A. (Economics), Université de Montréal, Canada, 1994<br />
-• M.A. (Mathematics and Social Sciences), Université Panthéon-Sorbonne, France, 1993<br />
-• BSc . (Mathematics and Social Sciences), Université Panthéon-Sorbonne, France, 1992<br />
-
 # Employment 
 • Associate Professor , University of Waterloo, 2012-present<br />
 • Visiting Professor, McMaster University, Winter 2017<br />
