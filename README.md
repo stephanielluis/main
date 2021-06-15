@@ -4,7 +4,7 @@
 
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
-You can mail anything to my office at	<br />
+You can mail anything to my office: <br />
 Hagey Hall, office HH 239,<br />
 200 University Av W,<br />
 Waterloo, ON N2L 3G1<br />
