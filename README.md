@@ -16,7 +16,7 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
-# Research
+# Research (Peer-Reviewed Publications, Reports and Working Papers)
 ## Female Labour Supply
 
 Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labour Supply](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2019-043), _Canadian Public Policy_, vol 46(3): 340-368
