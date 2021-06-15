@@ -19,7 +19,7 @@ Or email me: slluisatuwaterloodotca
 
 # Employment 
 • Associate Professor , University of Waterloo, 2012-present<br />
-• Visiting Professor, McMaster University, Fall 2017<br />
+• Visiting Professor, McMaster University, Winter 2017<br />
 • Visiting Professor, University of Adelaide, Australia, Winter 2015<br />
 • Assistant Professor, University of Waterloo, 2007-2012<br />
 • Assistant Professor, University of Minnesota, 2003-2006<br />
