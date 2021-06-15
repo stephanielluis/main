@@ -16,7 +16,7 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
-# Research (Peer-Reviewed Publications, Reports and Working Papers)
+# Peer-Reviewed Publications, Reports and Working Papers
 
 ## Worker Mobility and Workplace Organization
 
