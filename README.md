@@ -5,6 +5,12 @@ La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Co
 
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/) and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
+You can mail things to my office at
+Hagey Hall office HH 239
+200 University Av W
+Waterloo, ON N2L 3G1
+
+Or email me: slluisatuwaterloodotca
 
 
 # Publications
