@@ -5,7 +5,7 @@
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
 My main area of research expertise is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics.
-[VITAE](CV2021_Lluis.pdf)
+[VITAE - updated 2021](CV2021_Lluis.pdf)
 
 # Employment 
 • Associate Professor , University of Waterloo, 2012-present<br />
@@ -16,7 +16,10 @@ My main area of research expertise is Labour Economics and I teach graduate cour
 • Instructor, University of Minnesota, 2001-2002<br />
 • Research Analyst, CIRANO, Montreal, 1995-1996<br />
 
-# Most Recent Publications
+# Publications
+## Female Labour Supply
+Stéphanie Lluis and Yazhuo Pan, [Marital Property Laws and Women’s Labour Supply] (https://www.utpjournals.press/doi/abs/10.3138/cpp.2019-043?journalCode=cpp#:~:text=The%20empirical%20results%20of%20both,regime%20became%20favourable%20to%20them.&text=They%20find%20that%20the%20reforms%20reduced%20married%20women's%20suicide.), 2020, _Canadian Public Policy_, vol 46(3): 340-368
+
 Stéphanie Lluis and Brian McCall, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), _Canadian Public Policy_, 2019, vol 45(2):1-44
 
 
