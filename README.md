@@ -6,15 +6,15 @@ La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Co
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/) and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
 You can mail anything to my office at
-Hagey Hall office HH 239
-200 University Av W
+Hagey Hall office, HH 239,
+200 University Av W,
 Waterloo, ON N2L 3G1
 
 Or email me: slluisatuwaterloodotca
 
-## Education
+# Education
 
-## Employment 
+# Employment 
 
 # Publications
 Stéphanie Lluis and Brian McCall, [Employment and Job Search Implications of the Extended Weeks and Working while on Claim Pilot Initiatives](https://www.utpjournals.press/doi/full/10.3138/cpp.2018-031), _Canadian Public Policy_, 2019, vol 45(2):1-44
