@@ -1,6 +1,6 @@
 
 
-## "Dans la vie, y'a pas de grands, y'a pas de petits. La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Coluche.
+"Dans la vie, y'a pas de grands, y'a pas de petits. La bonne longueur pour les jambes, c'est quand les pieds touchent par terre." Coluche.
 
 [Curriculum Vitae](https://github.com/stephanielluis/stephanielluis.ca/files/6191232/CV2020_Lluis.pdf)
 
