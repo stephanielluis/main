@@ -33,9 +33,9 @@ Stéphanie Lluis, 2009, [Wage Structure by Firm Size: Evidence from Canada and t
 
 Ben-Ner, Avner and Stéphanie Lluis, 2011, [Learning: What and How? An Empirical Study of Adjustments in Organizational Structure](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-232X.2010.00626.x?casa_token=RRcboO6aIoQAAAAA%3ADPtH-65EZ2-L-qfkafpx3FH2OX73x9ndq3PWlSkEFdEklFpnTULg9g_pfL5U1KytcglEok036LjCvqo), _Industrial Relations_, vol 50(1), pp 76-108.
 
-Ben-Ner, Avner, Fanmin Kong, and Stéphanie Lluis, 2012, [Uncertainty, Task Environment, and Organization Design: An Empirical Investigation](https://www.sciencedirect.com/science/article/pii/S0167268112000315?casa_token=nbUnN0EjVcEAAAAA:YoplVQKJPifByy9KC3o1UpQ3z7E5KUCXh9hFVa6f4v80EbcGJstkLA-vYCAD2eTaqeGKMXKD_z8), Journal of Economic Behavior and Organization, 2012, vol 82(1), pp. 281-313.
+Ben-Ner, Avner, Fanmin Kong, and Stéphanie Lluis, 2012, [Uncertainty, Task Environment, and Organization Design: An Empirical Investigation](https://www.sciencedirect.com/science/article/pii/S0167268112000315?casa_token=nbUnN0EjVcEAAAAA:YoplVQKJPifByy9KC3o1UpQ3z7E5KUCXh9hFVa6f4v80EbcGJstkLA-vYCAD2eTaqeGKMXKD_z8), *_Journal of Economic Behavior and Organization_*, vol 82(1), pp. 281-313.
 
-Stéphanie Lluis and Jean Abraham, “Fringe Benefits Compensating Differentials and Worker Selection: Evidence from the Medical Expenditure Panel Survey 1997-2006”, Industrial Relations, 2013, vol 52(2), pp 541-581. 
+Stéphanie Lluis and Jean Abraham, 2013, [Fringe Benefits Compensating Differentials and Worker Selection: Evidence from the Medical Expenditure Panel Survey 1997-2006](), Industrial Relations, vol 52(2), pp 541-581. 
 
 ## Employment Insurance
 
