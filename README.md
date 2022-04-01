@@ -41,7 +41,8 @@ Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work
 
 Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labour Supply](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2019-043), _Canadian Public Policy_, vol 46(3): 340-368
 
-Stéphanie Lluis and Brian McCall, 2022, [Spousal Labour Supply Adjustments](SpousalMarch2022.pdf).
+Stéphanie Lluis and Brian McCall, 2022, [Spousal Labour Supply Adjustments to Extended Benefits Weeks
+Evidence from Canada](SpousalMarch2022.pdf).
 
 ## Work in Progress
 
