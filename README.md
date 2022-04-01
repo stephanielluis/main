@@ -4,7 +4,7 @@
 
 I am an Associate Professor in the [Department of Economics](https://uwaterloo.ca/economics/) at the [University of Waterloo](https://uwaterloo.ca/)<br /> and the Academic Director of the SouthWestern Ontario Research Data Center ([SWORDC](https://uwaterloo.ca/southwestern-ontario-research-data-centre/)).
 
-My main area of research is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics. Contact details are in my [VITAE](CV2021_Lluis.pdf).
+My main area of research is Labour Economics and I teach graduate courses in Applied Econometrics and undergraduate courses in Labour Economics and Gender Economics. Contact details are in my [VITAE](CV2022_Lluis.pdf).
 
 # Research
 ## Peer-Reviewed Articles, Reports, Working Papers
@@ -41,7 +41,7 @@ Colin Busby, Stéphanie Lluis and Brian McCall, 2021,[Transitioning Back to Work
 
 Stéphanie Lluis and Yazhuo Pan, 2020, [Marital Property Laws and Women’s Labour Supply](https://www.utpjournals.press/doi/pdf/10.3138/cpp.2019-043), _Canadian Public Policy_, vol 46(3): 340-368
 
-Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), Updated version coming soon.
+Stéphanie Lluis and Brian McCall, 2018, [Spousal Labour Supply Adjustments](https://ideas.repec.org/p/wat/wpaper/1810.html), [Updated version March 2022]().
 
 ## Work in Progress
 
